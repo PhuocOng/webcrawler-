@@ -1,0 +1,12 @@
+.image {
+    width: 200px;
+    border: 2px solid black;
+}
+
+.image-box {
+    border: 2px solid black;
+    width: 1000px;
+    margin-top: 2rem;
+
+}
+
